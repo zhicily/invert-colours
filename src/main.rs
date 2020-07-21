@@ -1,5 +1,3 @@
-extern crate image;
-extern crate scoped_threadpool;
 use std::convert::TryFrom;
 use std::time::Instant;
 
